@@ -1,3 +1,4 @@
+!!MAKE SURE YOU LOAD covertype DATASET INTO YOUR WORKING DIRECTORY AS covtype.bin or covtype.csv depending on whether you use binary or csv file path!!
 
 Parallel Tempering for Deep Learning (MPI + OpenMP)
 
